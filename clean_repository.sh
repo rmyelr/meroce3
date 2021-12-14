@@ -1,1 +1,1 @@
-rm game_game
+rm enumerate_numbers

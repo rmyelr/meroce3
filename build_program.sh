@@ -1,1 +1,1 @@
-gcc main.c -o game_game
+gcc main.c -o enumerate_numbers
