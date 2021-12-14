@@ -1,0 +1,1 @@
+rm game_game
