@@ -36,6 +36,7 @@ int main(int argc, char *argv[]){
 		printf("I have in mind a number in between 1 and %d, can you find it ?\n",atoi(argv[1]));
 		scanf("%d",&a);
 		while(n != a){
+
 			if(a > 0 && a <= atoi(argv[1])){
 				if(a < n){
 					printf("The number to guess is higher\n");
